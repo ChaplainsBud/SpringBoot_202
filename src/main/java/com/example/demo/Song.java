@@ -8,6 +8,7 @@ public class Song {
     private int rating;
     private int year;
 
+
     public long getId() {
         return id;
     }
